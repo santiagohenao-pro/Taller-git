@@ -1,0 +1,3 @@
+- Aprender a revisar el estado del repositorio
+- Practicar commits
+- Trabajar con ramas

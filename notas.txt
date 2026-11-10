@@ -1,0 +1,2 @@
+Mis notas de Git
+- Un commit guarda una versión del proyecto.
