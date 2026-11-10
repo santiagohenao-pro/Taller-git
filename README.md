@@ -5,3 +5,4 @@ Contenido
 Lista de tareas
 Notas de Git
 Perfil de ejemplo
+Practicando lectura del historial de Git. 
