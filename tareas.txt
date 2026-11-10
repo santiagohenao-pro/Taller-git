@@ -1,4 +1,5 @@
 - Aprender a revisar el estado del repositorio
 - Practicar commits
 - Trabajar con ramas
-- Revisar diferencias antes de guardar          
+- Revisar diferencias antes de guardar
+- Practicando reset soft      
