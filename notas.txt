@@ -1,2 +1,4 @@
 Mis notas de Git
 - Un commit guarda una versión del proyecto.
+- Las ramas separan cambios de un proyecto. git status
+
